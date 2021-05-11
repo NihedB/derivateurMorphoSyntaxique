@@ -42,7 +42,7 @@ python derivateur.py
 
 **_Important_** : l'exécution du programme nécessite le fichier `ReglesDerivation.txt`. Il faut que ce dernier soit place dans le même répertoire que le dérivateur.
 
-## Exemple d'exécution
+## Exemple de sortie
 
 * Sur le mot "jardiner", on obtient l'ensemble suivant:
 
