@@ -40,13 +40,13 @@ python derivateur.py
 ```
 * Une fois le programme lance, le message 'veuillez entrer un terme:' devrait s'afficher sur votre terminal. Vous devrez donc tapez le mot que vous voulez deriver et cliquez sur entree.
 
-_Important_ : l'execution du programme necessite le fichier regles.txt. Il faut que ce dernier soit place dans le meme repertoire que le fichier .py
+**_Important_** : l'execution du programme necessite le fichier regles.txt. Il faut que ce dernier soit place dans le meme repertoire que le fichier .py
 
 ## Exemple d'exécution
 
 * Sur le mot "jardiner", on obtient l'ensemble suivant:
 
-```
+```json
 {'jardinage': 'Nom', 'jardinable': 'Adj', 'jardinier': 'Nom', 'jardin': 'Nom'}
 ```
 
