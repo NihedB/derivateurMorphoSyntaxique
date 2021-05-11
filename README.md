@@ -30,7 +30,7 @@ pip install python3.8
 
 
 
-* Le fichier `ReglesDerivation.txt` contient l'ensemble des règles que nous avons utilisees pour générer les mots. Nous avons fait en sorte que ce fichier soit le plus détaillé possible, mais il demeure malgré cela non exaustif (il existe une infinite de règles de dérivation en francais !).
+* Le fichier `ReglesDerivation.txt` contient l'ensemble des règles que nous avons utilisées pour générer les mots. Nous avons fait en sorte que ce fichier soit le plus détaillé possible, mais il demeure malgré cela non exaustif (il existe une infinite de règles de dérivation en francais !).
 
 ## Exécution du programme
 
@@ -38,7 +38,7 @@ pip install python3.8
 ```
 python derivateur.py
 ```
-* Une fois le programme lance, le message 'veuillez entrer un terme:' devrait s'afficher sur votre terminal. Vous devrez donc tapez le mot que vous voulez dériver et cliquez sur entrée.
+* Une fois le programme lance, le message `veuillez entrer un terme: ` devrait s'afficher sur votre terminal. Vous devrez donc tapez le mot que vous voulez dériver et cliquez sur entrée.
 
 **_Important_** : l'exécution du programme nécessite le fichier `regles.txt`. Il faut que ce dernier soit place dans le même repertoire que le dérivateur
 
