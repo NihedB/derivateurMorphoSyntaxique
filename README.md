@@ -46,7 +46,7 @@ python derivateur.py
 
 * Sur le mot "jardiner", on obtient l'ensemble suivant:
 
-```json
+```python
 {'jardinage': 'Nom', 'jardinable': 'Adj', 'jardinier': 'Nom', 'jardin': 'Nom'}
 ```
 
