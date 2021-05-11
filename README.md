@@ -1,12 +1,12 @@
 # derivateurMorphoSyntaxique
-Générateur de mots à partir de dérivations morphosyntaxiques en utilisant le réseau JeuxDeMots
+Générateur de mots à partir de dérivations morphosyntaxiques en utilisant le réseau  [JeuxDeMots](http://www.jeuxdemots.org/jdm-accueil.php)
 
 
 ## Description
 
 * Le programme commence par generer des mots a partir du fichier "ReglesDerivation.txt".
 
-* Ensuite il genere les mots relies avec le mot d'origine par une relation existante sur JeuxDeMots (r_agent, r_lieu; adj->adv, r_pos, etc)
+* Ensuite il genere les mots relies avec le mot d'origine par une relation existante sur [JeuxDeMots](http://www.jeuxdemots.org/jdm-accueil.php) (r_agent, r_lieu; adj->adv, r_pos, etc)
 
 * Il garde l'intersection des deux ensembles et verifie si la nature des mots gardes est correcte.
 
