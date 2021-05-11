@@ -40,7 +40,7 @@ python derivateur.py
 ```
 * Une fois le programme lance, le message `veuillez entrer un terme: ` devrait s'afficher sur votre terminal. Vous devrez donc tapez le mot que vous voulez dériver et cliquez sur entrée.
 
-**_Important_** : l'exécution du programme nécessite le fichier `regles.txt`. Il faut que ce dernier soit place dans le même repertoire que le dérivateur
+**_Important_** : l'exécution du programme nécessite le fichier `ReglesDerivation.txt`. Il faut que ce dernier soit place dans le même répertoire que le dérivateur
 
 ## Exemple d'exécution
 
