@@ -6,7 +6,7 @@ Générateur de mots à partir de dérivations morphosyntaxiques en utilisant le
 
 * Le programme commence par generer des mots a partir du fichier `ReglesDerivation.txt`.
 
-* Ensuite il génère les mots relies avec le mot d'origine par une relation existante sur [JeuxDeMots](http://www.jeuxdemots.org/jdm-accueil.php) (r_agent, r_lieu; adj->adv, r_pos, etc)
+* Ensuite il génère les mots relies avec le mot d'origine par une relation existante sur [JeuxDeMots](http://www.jeuxdemots.org/jdm-accueil.php) (r_agent, r_lieu; adj->adv, r_pos, etc).
 
 * Il garde l'intersection des deux ensembles et vérifie si la nature des mots gardes est correcte.
 
@@ -40,7 +40,7 @@ python derivateur.py
 ```
 * Une fois le programme lance, le message `veuillez entrer un terme: ` devrait s'afficher sur votre terminal. Vous devrez donc tapez le mot que vous voulez dériver et cliquez sur entrée.
 
-**_Important_** : l'exécution du programme nécessite le fichier `ReglesDerivation.txt`. Il faut que ce dernier soit place dans le même répertoire que le dérivateur
+**_Important_** : l'exécution du programme nécessite le fichier `ReglesDerivation.txt`. Il faut que ce dernier soit place dans le même répertoire que le dérivateur.
 
 ## Exemple d'exécution
 
